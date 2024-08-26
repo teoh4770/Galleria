@@ -30,4 +30,3 @@ Gallaria is a slideshow site I built with Vanilla PHP and JavaScript, inspired b
 - Frontend Mentor - [CK](https://www.frontendmentor.io/challenges/galleria-slideshow-site-tEA4pwsa6)
 - LinkedIn - [Chee Kian Teoh](https://www.linkedin.com/in/cheekianteoh/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
